@@ -1,3 +1,10 @@
+NOTE: This is a lowlevel fork of EXT:libconnect to ensure functionality
+in composer environments w/o any further changes. 
+
+Tested with TYPO3 8.7.8 (only).
+
+---
+
 # libconnect
 
 Libconnect is an TYPO3 extension which was inital developed by Avonis for the Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky (SUB). The SUB develop the continuously.
